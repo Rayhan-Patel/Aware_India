@@ -1,0 +1,78 @@
+addId,address_line1,state,phone_number,postal_code,sr_id
+1,123 Humfrigunj Street,Andaman and Nicobar Islands,123456,9876543210,1
+2,456 Nandavaram Road,Andhra Pradesh,234567,8765432109,2
+3,789 Lingasamudram Ave,Andhra Pradesh,345678,7654321098,3
+4,101 Adoni Rural Street,Andhra Pradesh,456789,6543210987,4
+5,202 Rupa Lane,Arunachal Pradesh,567890,5432109876,5
+6,303 Balemu Street,Arunachal Pradesh,678901,4321098765,6
+7,404 Narayanpur Road,Assam,789012,3210987654,7
+8,505 Behali Ave,Assam,890123,2109876543,8
+9,606 Sare Lane,Bihar,901234,1098765432,9
+10,707 Samho Road,Bihar,12345,987654321,10
+11,808 Mahila PS Street,Bihar,123456,9876543210,11
+12,909 East Sector 26,Chandigarh,234567,8765432109,12
+13,1010 Somani Street,Chhattisgarh,345678,7654321098,13
+14,1111 Nandini Lane,Chhattisgarh,456789,6543210987,14
+15,1212 Silvassa Road,Dadra & Nagar Haveli and Daman & Diu,567890,5432109876,15
+16,1313 Harsh Vihar Street,Delhi,678901,4321098765,16
+17,1414 Jyoti Nagar Road,Delhi,789012,3210987654,17
+18,1515 Quepem Lane,Goa,890123,2109876543,18
+19,1616 Sanguem Street,Goa,901234,1098765432,19
+20,1717 Gandevi Road,Gujarat,12345,987654321,20
+21,1818 Karelibagh Street,Gujarat,123456,9876543210,21
+22,1919 Navabandar Marin Road,Gujarat,234567,8765432109,22
+23,2020 Manesar Lane,Haryana,345678,7654321098,23
+24,2121 HSIDC Barhi Street,Haryana,456789,6543210987,24
+25,2222 Dhalli Road,Himachal Pradesh,567890,5432109876,25
+26,2323 Solan Sadar Lane,Himachal Pradesh,678901,4321098765,26
+27,2424 City PS Street,Jammu & Kashmir,789012,3210987654,27
+28,2525 Shergari Road,Jammu & Kashmir,890123,2109876543,28
+29,2626 Sunder Pahari Lane,Jharkhand,901234,1098765432,29
+30,2727 Mirzachauki Street,Jharkhand,12345,987654321,30
+31,2828 City Market PS Road,Karnataka,123456,9876543210,31
+32,2929 Kuderu Lane,Karnataka,234567,8765432109,32
+33,3030 Thalak Street,Karnataka,345678,7654321098,33
+34,3131 Kuttipuram Road,Kerala,456789,6543210987,34
+35,3232 Guruvayur Temple PS Lane,Kerala,567890,5432109876,35
+36,3333 Leh Road,Ladakh,678901,4321098765,36
+37,3434 Kargil Lane,Ladakh,789012,3210987654,37
+38,3535 Andrott Street,Lakshadweep,890123,2109876543,38
+39,Kotwali Datia,Madhya Pradesh,123456,9876543210,39
+40,Civil Line Dewas,Madhya Pradesh,234567,8765432109,40
+41,Mehdvani,Madhya Pradesh,345678,7654321098,41
+42,Vengurla,Maharashtra,456789,6543210987,42
+43,Pusegaon,Maharashtra,567890,5432109876,43
+44,Aundh,Maharashtra,678901,4321098765,44
+45,Kumbi,Manipur,789012,3210987654,45
+46,Nambol,Manipur,890123,2109876543,46
+47,Diengpasoh PS,Meghalaya,901234,1098765432,47
+48,Sadar PS,Meghalaya,12345,987654321,48
+49,Champhai PS,Mizoram,123456,9876543210,49
+50,Lunglei PS,Mizoram,234567,8765432109,50
+51,Women PS Kohima,Nagaland,345678,7654321098,51
+52,Chiephobozou,Nagaland,456789,6543210987,52
+53,Raghunathpur,Odisha,567890,5432109876,53
+54,Biridi,Odisha,678901,4321098765,54
+55,Bahour,Puducherry,789012,3210987654,55
+56,Dasuya,Punjab,890123,2109876543,56
+57,Kiratpur Sahib,Punjab,901234,1098765432,57
+58,Jaitsar,Rajasthan,12345,987654321,58
+59,Kishorepura,Rajasthan,123456,9876543210,59
+60,Suratgarh Sadar,Rajasthan,234567,8765432109,60
+61,Pakyong PS,Sikkim,345678,7654321098,61
+62,Sadar PS,Sikkim,456789,6543210987,62
+63,Negamam,Tamil Nadu,567890,5432109876,63
+64,Sindupatty,Tamil Nadu,678901,4321098765,64
+65,Kottur,Tamil Nadu,789012,3210987654,65
+66,Medipally,Telangana,890123,2109876543,66
+67,Rajendranagar,Telangana,901234,1098765432,67
+68,Mirchowk,Telangana,12345,987654321,68
+69,Gandacherra PS,Tripura,123456,9876543210,69
+70,Chamanu,Tripura,234567,8765432109,70
+71,Chandpur,Uttar Pradesh,345678,7654321098,71
+72,Sadat,Uttar Pradesh,456789,6543210987,72
+73,Rura,Uttar Pradesh,567890,5432109876,73
+74,Clement Town,Uttarakhand,678901,4321098765,74
+75,Nehru Colony,Uttarakhand,789012,3210987654,75
+76,Serampore PS,West Bengal,890123,2109876543,76
+77,Matigara,West Bengal,901234,1098765432,77

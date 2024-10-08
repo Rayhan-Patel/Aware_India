@@ -1,0 +1,168 @@
+/* Style for the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th,
+td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Style for the pagination controls */
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.pagination-controls button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.pagination-controls button:disabled {
+    background-color: #c0c0c0;
+    cursor: not-allowed;
+}
+
+.pagination-controls span {
+    font-size: 16px;
+    margin: 0 10px;
+}
+
+/* Center the heading */
+.center-heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.center-heading h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+
+/* Base styles for the form container */
+.form-container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    max-height: 80px;
+    /* Height when collapsed */
+    overflow: hidden;
+    /* Hide overflow content */
+    cursor: pointer;
+    /* Indicate clickable area */
+}
+
+/* Expanded state styles */
+.form-container.expanded {
+    max-height: 100%;
+    /* Height when expanded */
+    padding: 20px;
+    /* Padding when expanded */
+}
+
+/* Form element styles */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="checkbox"] {
+    margin-bottom: 16px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="text"],
+input[type="date"] {
+    width: 100%;
+}
+
+input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+/* Button styles */
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    align-self: flex-start;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .form-container {
+        padding: 10px;
+    }
+
+    label,
+    input[type="text"],
+    input[type="date"] {
+        font-size: 14px;
+    }
+
+    button[type="submit"] {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .form-container {
+        padding: 5px;
+    }
+
+    label,
+    input[type="text"],
+    input[type="date"],
+    button[type="submit"] {
+        font-size: 12px;
+    }
+}
